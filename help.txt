@@ -1,0 +1,10 @@
+To give input, do the following step:
+According to the square which you want to add your line to, choose either line is UP, DOWN, LEFT or RIGHT.
+for example for the following line input is:
+*  *  *
+       
+*  *--*
+
+*  *  *
+
+input : U-1-1 or D-0-1
